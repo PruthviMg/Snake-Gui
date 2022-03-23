@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -g -pthread  -rdynamic CMakeFiles/Game.dir/src/CFood.cpp.o CMakeFiles/Game.dir/src/CPosition.cpp.o CMakeFiles/Game.dir/src/CSnake.cpp.o CMakeFiles/Game.dir/src/CUtility.cpp.o CMakeFiles/Game.dir/src/test.cpp.o  -o Game  -lsfml-graphics -lsfml-window -lsfml-system 
